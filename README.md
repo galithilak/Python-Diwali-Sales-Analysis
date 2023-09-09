@@ -18,5 +18,8 @@ Before running the analysis, make sure you have the following Python libraries i
 You can install these libraries using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas
+pip install numpy
+pip install matplotlib
+pip install seaborn
 ```
